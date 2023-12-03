@@ -21,8 +21,8 @@ function Services() {
                         <span className="icon-browser2"></span>
                     </span>
                     <h3 className="mb-4">Web Design</h3>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                    <p><a href="#" className="site-link">Learn More <i className="icon-chevron-right"></i></a></p>
+                    <p>Developing responsive, sturdy, robust UI with great User Experience.</p>
+                    <p><a href="http://www.akwaabaevolution.com" className="site-link">Learn More <i className="icon-chevron-right"></i></a></p>
                 </div>
             </div>
             <div className="col-md-6 col-lg-4 text-center mb-5">
@@ -30,19 +30,19 @@ function Services() {
                     <span className="icon">
                         <span className="icon-presentation"></span>
                     </span>
-                    <h3 className="mb-4">Search Engine Optimization</h3>
-                    <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                    <p><a href="#" className="site-link">Learn More <i className="icon-chevron-right"></i></a></p>
+                    <h3 className="mb-4">UI/UX Design</h3>
+                    <p>Design pixel perfect mockups for your web and mobile apps.</p>
+                    <p><a href="http://www.akwaabaevolution.com" className="site-link">Learn More <i className="icon-chevron-right"></i></a></p>
                 </div>
             </div>
             <div className="col-md-6 col-lg-4 text-center mb-5">
                 <div className="site-service-item site-animate" data-animate-effect="fadeIn">
                     <span className="icon">
-                        <span className="icon-video2"></span>
+                        <span className="icon-mobile"></span>
                     </span>
-                    <h3 className="mb-4">Video Editing</h3>
-                    <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                    <p><a href="#" className="site-link">Learn More <i className="icon-chevron-right"></i></a></p>
+                    <h3 className="mb-4">Mobile Apps</h3>
+                    <p>Develop mobile apps with intuitive UI using React Native.</p>
+                    <p><a href="http://www.akwaabaevolution.com" className="site-link">Learn More <i className="icon-chevron-right"></i></a></p>
                 </div>
             </div>
 
