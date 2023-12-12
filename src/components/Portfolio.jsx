@@ -101,9 +101,9 @@ function Portfolio() {
 							<a href="images/tinatett.png">
 							<div className="p-inner">
 								<h4>Tinatett</h4>
-								<h6>Username: admin</h6>
-								<h6>Password: Pass@123</h6>
-								<div className="cat">POS Application</div>
+								{/* <h6>Username: admin</h6>
+								<h6>Password: Pass@123</h6> */}
+								<div className="cat">POS Application (username: admin, password: Pass@123)</div>
 							</div>
 							</a>
 							
