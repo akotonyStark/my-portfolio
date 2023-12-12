@@ -21,43 +21,47 @@ function Portfolio() {
 
 			<div className="filters-content">
 				<div className="row grid">
-					<div className="single-portfolio col-sm-4 all mockup">
-						<div className="relative">
-							<div className="thumb">
-								<div className="overlay overlay-bg"></div>
-								<img className="image img-fluid" src="images/p1.jpg" alt=""/>
-							</div>
-							<a href="https://space-trips.netlify.app/" className="img-pop-up">  
-								<div className="middle">
-									<div className="text align-self-center d-flex"><img src="images/preview.png" alt=""/></div>
+					<a href="https://space-trips.netlify.app/">
+						<div className="single-portfolio col-sm-4 all mockup">
+							<div className="relative">
+								<div className="thumb">
+									<div className="overlay overlay-bg"></div>
+									<img className="image img-fluid" src="images/p1.jpg" alt=""/>
 								</div>
-							</a>                                  
+								<a href="https://space-trips.netlify.app/" className="img-pop-up">  
+									<div className="middle">
+										<div className="text align-self-center d-flex"><img src="images/preview.png" alt=""/></div>
+									</div>
+								</a>                                  
+							</div>
+							<a href="https://space-trips.netlify.app/"><div className="p-inner">
+								<h4>Space Trips</h4>
+								<div className="cat">Mapbox Application</div>
+							</div></a>                                         
 						</div>
-						<a href="https://space-trips.netlify.app/"><div className="p-inner">
-							<h4>Space Trips</h4>
-							<div className="cat">Mapbox Application</div>
-						</div></a>                                         
-					</div>
+					</a>
 
-					<div className="single-portfolio col-sm-4 all mockup">
-						<div className="relative">
-							<div className="thumb">
-								<div className="overlay overlay-bg"></div>
-								<img className="image img-fluid" src="images/p2.png" alt=""/>
-							</div>
-							<a href="images/p2.png" className="img-pop-up">  
-								<div className="middle">
-									<div className="text align-self-center d-flex"><img src="images/preview.png" alt=""/></div>
+					<a href='https://todo-app-webfx.netlify.app/'>
+						<div className="single-portfolio col-sm-4 all mockup">
+							<div className="relative">
+								<div className="thumb">
+									<div className="overlay overlay-bg"></div>
+									<img className="image img-fluid" src="images/p2.png" alt=""/>
 								</div>
+								<a href="images/p2.png" className="img-pop-up">  
+									<div className="middle">
+										<div className="text align-self-center d-flex"><img src="images/preview.png" alt=""/></div>
+									</div>
+								</a>                                  
+							</div>
+							<a href='https://todo-app-webfx.netlify.app/'>
+								<div className="p-inner">
+									<h4>Todo App</h4>
+									<div className="cat">Drag n Drop</div>
+								</div>       
 							</a>                                  
-						</div>
-						<a href='https://todo-app-webfx.netlify.app/'>
-							<div className="p-inner">
-								<h4>Todo App</h4>
-								<div className="cat">Drag n Drop</div>
-							</div>       
-						</a>                                  
-					</div>    
+						</div> 
+					</a>   
 
 					<div className="single-portfolio col-sm-4 all packaging">
 						<div className="relative">
@@ -81,26 +85,31 @@ function Portfolio() {
 						
 					</div>
 
-					<div className="single-portfolio col-sm-4 all packaging">
-						<div className="relative">
-							<div className="thumb">
-								<div className="overlay overlay-bg"></div>
-								<img className="image img-fluid" src="images/pos.jpeg" alt=""/>
-							</div>
-							<a href="images/tinatett.png" className="img-pop-up">  
-								<div className="middle">
-									<div className="text align-self-center d-flex"><img src="images/preview.png" alt=""/></div>
+					<a href='https://tinatett.netlify.app/'>
+						<div className="single-portfolio col-sm-4 all packaging">
+							<div className="relative">
+								<div className="thumb">
+									<div className="overlay overlay-bg"></div>
+									<img className="image img-fluid" src="images/pos.jpeg" alt=""/>
 								</div>
-							</a>                                
-						</div> 
-						<a href="images/tinatett.png">
-						<div className="p-inner">
-							<h4>Tinatett</h4>
-							<div className="cat">POS Application</div>
+								<a href="images/tinatett.png" className="img-pop-up">  
+									<div className="middle">
+										<div className="text align-self-center d-flex"><img src="images/preview.png" alt=""/></div>
+									</div>
+								</a>                                
+							</div> 
+							<a href="images/tinatett.png">
+							<div className="p-inner">
+								<h4>Tinatett</h4>
+								<h6>Username: admin</h6>
+								<h6>Password: Pass@123</h6>
+								<div className="cat">POS Application</div>
+							</div>
+							</a>
+							
 						</div>
-						</a>
-						
-					</div>
+					</a>
+				
 
 					<div className="single-portfolio col-sm-4 all packaging">
 						<div className="relative">
@@ -124,6 +133,7 @@ function Portfolio() {
 						
 					</div>
 					
+					<a href="https://www.figma.com/file/57YzqUDPNcWJQcDhGwk8yd/ProjectX?type=design&node-id=0%3A1&mode=design&t=X7EfGNT0wlRLOKV7-1">
 					<div className="single-portfolio col-sm-4 all typography">
 						<div className="relative">
 							<div className="thumb">
@@ -145,6 +155,8 @@ function Portfolio() {
 						</a>
 						
 					</div>
+					</a>
+					
 				</div>
 			</div>
 		</div>

@@ -17,7 +17,7 @@ function AboutMe() {
 
 					<p>
 						<a href="#section-contact" className="btn btn-primary px-4 py-2 btn-sm smoothscroll" style={{marginRight:10}}>Hire Me</a>
-						<a href="cv.pdf" className="btn btn-secondary px-4 py-2 btn-sm">Download CV</a>
+						<a href="resume.pdf" className="btn btn-secondary px-4 py-2 btn-sm">Download CV</a>
 					</p>
 				</div>
 			</div>
