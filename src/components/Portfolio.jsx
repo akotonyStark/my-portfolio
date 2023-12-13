@@ -86,7 +86,7 @@ function Portfolio() {
 					</div>
 
 					<a href='https://tinatett.netlify.app/'>
-						<div className="single-portfolio col-sm-4 all packaging">
+						<div className="single-portfolio col-sm-4 all packaging" title='(username: admin, password: Pass@123)'>
 							<div className="relative">
 								<div className="thumb">
 									<div className="overlay overlay-bg"></div>
@@ -103,7 +103,7 @@ function Portfolio() {
 								<h4>Tinatett</h4>
 								{/* <h6>Username: admin</h6>
 								<h6>Password: Pass@123</h6> */}
-								<div className="cat">POS Application (username: admin, password: Pass@123)</div>
+								<div className="cat">POS </div>
 							</div>
 							</a>
 							
