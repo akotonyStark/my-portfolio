@@ -21,7 +21,7 @@ function Portfolio() {
 
 			<div className="filters-content">
 				<div className="row grid">
-					<a href="https://space-trips.netlify.app/">
+					{/* <a href="https://space-trips.netlify.app/"> */}
 						<div className="single-portfolio col-sm-4 all mockup">
 							<div className="relative">
 								<div className="thumb">
@@ -39,9 +39,9 @@ function Portfolio() {
 								<div className="cat">Mapbox Application</div>
 							</div></a>                                         
 						</div>
-					</a>
+					{/* </a> */}
 
-					<a href='https://todo-app-webfx.netlify.app/'>
+					{/* <a href='https://todo-app-webfx.netlify.app/'> */}
 						<div className="single-portfolio col-sm-4 all mockup">
 							<div className="relative">
 								<div className="thumb">
@@ -61,7 +61,7 @@ function Portfolio() {
 								</div>       
 							</a>                                  
 						</div> 
-					</a>   
+					{/* </a>    */}
 
 					<div className="single-portfolio col-sm-4 all packaging">
 						<div className="relative">
@@ -85,7 +85,7 @@ function Portfolio() {
 						
 					</div>
 
-					<a href='https://tinatett.netlify.app/'>
+					{/* <a href='https://tinatett.netlify.app/'> */}
 						<div className="single-portfolio col-sm-4 all packaging" title='(username: admin, password: Pass@123)'>
 							<div className="relative">
 								<div className="thumb">
@@ -108,7 +108,7 @@ function Portfolio() {
 							</a>
 							
 						</div>
-					</a>
+					{/* </a> */}
 				
 
 					<div className="single-portfolio col-sm-4 all packaging">
@@ -133,7 +133,7 @@ function Portfolio() {
 						
 					</div>
 					
-					<a href="https://www.figma.com/file/57YzqUDPNcWJQcDhGwk8yd/ProjectX?type=design&node-id=0%3A1&mode=design&t=X7EfGNT0wlRLOKV7-1">
+					{/* <a href="https://www.figma.com/file/57YzqUDPNcWJQcDhGwk8yd/ProjectX?type=design&node-id=0%3A1&mode=design&t=X7EfGNT0wlRLOKV7-1"> */}
 					<div className="single-portfolio col-sm-4 all typography">
 						<div className="relative">
 							<div className="thumb">
@@ -155,7 +155,7 @@ function Portfolio() {
 						</a>
 						
 					</div>
-					</a>
+					{/* </a> */}
 					
 				</div>
 			</div>
