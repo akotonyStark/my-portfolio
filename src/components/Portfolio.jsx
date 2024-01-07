@@ -46,7 +46,7 @@ function Portfolio() {
 								</a>
 							</div>
 							<a href="https://react-wedding-planner.netlify.app/"><div className="p-inner">
-								<h4>Space Trips</h4>
+								<h4>Wedding Planner</h4>
 								<div className="cat">Wedding Planner</div>
 							</div></a>
 						</div>
