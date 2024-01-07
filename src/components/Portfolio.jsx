@@ -5,6 +5,7 @@ import erp from '../assets/post_2.jpg'
 import pos from '../assets/pos.jpeg'
 import figma from '../assets/fig.jpg'
 import seating from '../assets/p7.png'
+import wp from '../assets/wp.png'
 
 function Portfolio() {
 	return (
@@ -27,6 +28,28 @@ function Portfolio() {
 
 				<div className="filters-content">
 					<div className="row grid">
+
+						{/* Wedding Planner	 */}
+						<div className="single-portfolio col-sm-4 all mockup">
+							<div className="relative">
+								<div className="thumb">
+									<div className="overlay overlay-bg"></div>
+									<a href="https://react-wedding-planner.netlify.app/" target='_blank'>
+										<img className="image img-fluid" src={wp} alt="" />
+									</a>
+
+								</div>
+								<a href="https://react-wedding-planner.netlify.app/"  target='_blank' className="img-pop-up">
+									<div className="middle">
+										<div className="text align-self-center d-flex"><img src={wp} alt="Rocket" /></div>
+									</div>
+								</a>
+							</div>
+							<a href="https://react-wedding-planner.netlify.app/"><div className="p-inner">
+								<h4>Space Trips</h4>
+								<div className="cat">Wedding Planner</div>
+							</div></a>
+						</div>
 
 						{/* Space Trips	 */}
 						<div className="single-portfolio col-sm-4 all mockup">
