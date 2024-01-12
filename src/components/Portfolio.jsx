@@ -17,13 +17,12 @@ function Portfolio() {
 					</div>
 				</div>
 				<div className="filters">
-					<ul>
+					{/* <ul>
 						<li className="active" data-filter="*">All</li>
 						<li data-filter=".packaging">Client Projects</li>
 						<li data-filter=".mockup">Personal Projects </li>
 						<li data-filter=".typography">Mockups</li>
-						{/* <li data-filter=".photography">Photography</li> */}
-					</ul>
+					</ul> */}
 				</div>
 
 				<div className="filters-content">
