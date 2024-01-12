@@ -50,52 +50,6 @@ function Portfolio() {
 							</div></a>
 						</div>
 
-						{/* Space Trips	 */}
-						<div className="single-portfolio col-sm-4 all mockup">
-							<div className="relative">
-								<div className="thumb">
-									<div className="overlay overlay-bg"></div>
-									<a href="https://space-trips.netlify.app/" target='_blank'>
-										<img className="image img-fluid" src={space} alt="" />
-									</a>
-
-								</div>
-								<a href="https://space-trips.netlify.app/"  target='_blank' className="img-pop-up">
-									<div className="middle">
-										<div className="text align-self-center d-flex"><img src={space} alt="Rocket" /></div>
-									</div>
-								</a>
-							</div>
-							<a href="https://space-trips.netlify.app/"><div className="p-inner">
-								<h4>Space Trips</h4>
-								<div className="cat">Mapbox Application</div>
-							</div></a>
-						</div>
-
-
-						{/* Todo-App */}
-						<div className="single-portfolio col-sm-4 all mockup">
-							<div className="relative">
-								<div className="thumb">
-									<div className="overlay overlay-bg"></div>
-									<a href='https://todo-app-webfx.netlify.app/' target='_blank'>
-										<img className="image img-fluid" src={todo} alt="" />
-									</a>
-
-								</div>
-								<a href='https://todo-app-webfx.netlify.app/' target='_blank' className="img-pop-up">
-									<div className="middle">
-										<div className="text align-self-center d-flex"><img src={todo} alt="Todo List" /></div>
-									</div>
-								</a>
-							</div>
-							<a href='https://todo-app-webfx.netlify.app/' target='_blank'>
-								<div className="p-inner">
-									<h4>Todo App</h4>
-									<div className="cat">Drag n Drop</div>
-								</div>
-							</a>
-						</div>
 
 						{/* BIZ-360 */}
 						<div className="single-portfolio col-sm-4 all packaging" title="{username: tonyStark, password: Welcome@2023}">
@@ -148,6 +102,35 @@ function Portfolio() {
 
 						</div>
 
+
+
+						
+
+
+						{/* Space Trips	 */}
+						<div className="single-portfolio col-sm-4 all mockup">
+							<div className="relative">
+								<div className="thumb">
+									<div className="overlay overlay-bg"></div>
+									<a href="https://space-trips.netlify.app/" target='_blank'>
+										<img className="image img-fluid" src={space} alt="" />
+									</a>
+
+								</div>
+								<a href="https://space-trips.netlify.app/"  target='_blank' className="img-pop-up">
+									<div className="middle">
+										<div className="text align-self-center d-flex"><img src={space} alt="Rocket" /></div>
+									</div>
+								</a>
+							</div>
+							<a href="https://space-trips.netlify.app/"><div className="p-inner">
+								<h4>Space Trips</h4>
+								<div className="cat">Mapbox Application</div>
+							</div></a>
+						</div>
+
+						
+
 						{/* Guest Seating */}
 						<div className="single-portfolio col-sm-4 all packaging">
 							<div className="relative">
@@ -171,6 +154,30 @@ function Portfolio() {
 
 						</div>
 
+						{/* Todo-App */}
+						<div className="single-portfolio col-sm-4 all mockup">
+							<div className="relative">
+								<div className="thumb">
+									<div className="overlay overlay-bg"></div>
+									<a href='https://todo-app-webfx.netlify.app/' target='_blank'>
+										<img className="image img-fluid" src={todo} alt="" />
+									</a>
+
+								</div>
+								<a href='https://todo-app-webfx.netlify.app/' target='_blank' className="img-pop-up">
+									<div className="middle">
+										<div className="text align-self-center d-flex"><img src={todo} alt="Todo List" /></div>
+									</div>
+								</a>
+							</div>
+							<a href='https://todo-app-webfx.netlify.app/' target='_blank'>
+								<div className="p-inner">
+									<h4>Todo App</h4>
+									<div className="cat">Drag n Drop</div>
+								</div>
+							</a>
+						</div>
+
 
 						
 
@@ -192,8 +199,8 @@ function Portfolio() {
 
 							<a href="https://www.figma.com/file/57YzqUDPNcWJQcDhGwk8yd/ProjectX?type=design&node-id=0%3A1&mode=design&t=X7EfGNT0wlRLOKV7-1">
 								<div className="p-inner">
-									<h4>Rental App (React Native)</h4>
-									<div className="cat">Mockup</div>
+									<h4>Rental App (Figma Design)</h4>
+									<div className="cat">Mockup </div>
 								</div>
 							</a>
 
