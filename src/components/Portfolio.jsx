@@ -14,6 +14,7 @@ function Portfolio() {
 				<div className="row">
 					<div className="section-heading text-center col-md-12">
 						<h2>Featured <strong>Portfolio</strong></h2>
+						<marquee><h5>Hover on Thumbnail for a few seconds to get login details</h5></marquee>
 					</div>
 				</div>
 				<div className="filters">
