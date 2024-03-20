@@ -52,17 +52,17 @@ function Portfolio() {
 						</div>
 
 
-						{/* BIZ-360 */}
-						<div className="single-portfolio col-sm-4 all packaging" title="{username: tonyStark, password: Welcome@2023}">
+						{/* LAW-FIRM */}
+						<div className="single-portfolio col-sm-4 all packaging">
 							<div className="relative">
 								<div className="thumb">
 									<div className="overlay overlay-bg"></div>
-									<a href="https://spes.pscgh.com:442/bizApp/" target="_blank" className="img-pop-up">
+									<a href="https://opokuamponsahandco.com/" target="_blank" className="img-pop-up">
 										<img className="image img-fluid" src={erp} alt="" />
 									</a>
 								</div>
 								
-								<a href='https://spes.pscgh.com:442/bizApp/' target='_blank' className="img-pop-up">
+								<a href='https://opokuamponsahandco.com/' target='_blank' className="img-pop-up">
 								<div className="middle">
 										<div className="text align-self-center d-flex"><img src={erp} alt="ERP" /></div>
 									</div>
@@ -71,8 +71,8 @@ function Portfolio() {
 							</div>
 							<a href="https://spes.pscgh.com:442/bizApp/" target="_blank">
 								<div className="p-inner">
-									<h4>Biz 360</h4>
-									<div className="cat">ERP Application</div>
+									<h4>Amponsah & Co</h4>
+									<div className="cat">Law Firm</div>
 								</div>
 							</a>
 
@@ -102,6 +102,32 @@ function Portfolio() {
 							</a>
 
 						</div>
+
+
+						{/* West African Tours */}
+						{/* <div className="single-portfolio col-sm-4 all packaging" title='(username: admin, password: Pass@123)'>
+							<div className="relative">
+								<div className="thumb">
+									<div className="overlay overlay-bg"></div>
+									<a href='https://www.westafricantoursinfo.com/' target='_blank'>
+										<img className="image img-fluid" src={pos} alt="" />
+									</a>
+
+								</div>
+								<a href='https://www.westafricantoursinfo.com/' target='_blank' className="img-pop-up">
+									<div className="middle">
+										<div className="text align-self-center d-flex"><img src={pos} alt="POS" /></div>
+									</div>
+								</a>
+							</div>
+							<a href="images/tinatett.png">
+								<div className="p-inner">
+									<h4>Tourism</h4>
+									<div className="cat">Travel </div>
+								</div>
+							</a>
+
+						</div> */}
 
 
 
