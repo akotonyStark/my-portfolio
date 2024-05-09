@@ -6,6 +6,7 @@ import pos from '../assets/pos.jpeg'
 import figma from '../assets/fig.jpg'
 import seating from '../assets/p7.png'
 import wp from '../assets/wp.png'
+import gavel from '../assets/gavel.jpg'
 
 function Portfolio() {
 	return (
@@ -52,17 +53,17 @@ function Portfolio() {
 						</div>
 
 
-						{/* LAW-FIRM */}
+						{/* BIZ-360 */}
 						<div className="single-portfolio col-sm-4 all packaging">
 							<div className="relative">
 								<div className="thumb">
 									<div className="overlay overlay-bg"></div>
-									<a href="https://opokuamponsahandco.com/" target="_blank" className="img-pop-up">
+									<a href="https://spes.pscgh.com:442/bizApp/" target="_blank" className="img-pop-up">
 										<img className="image img-fluid" src={erp} alt="" />
 									</a>
 								</div>
 								
-								<a href='https://opokuamponsahandco.com/' target='_blank' className="img-pop-up">
+								<a href='https://spes.pscgh.com:442/bizApp/' target='_blank' className="img-pop-up">
 								<div className="middle">
 										<div className="text align-self-center d-flex"><img src={erp} alt="ERP" /></div>
 									</div>
@@ -70,6 +71,32 @@ function Portfolio() {
 		
 							</div>
 							<a href="https://spes.pscgh.com:442/bizApp/" target="_blank">
+								<div className="p-inner">
+									<h4>Biz360</h4>
+									<div className="cat">ERP</div>
+								</div>
+							</a>
+
+						</div>
+
+						{/* LAW-FIRM */}
+						<div className="single-portfolio col-sm-4 all packaging">
+							<div className="relative">
+								<div className="thumb">
+									<div className="overlay overlay-bg"></div>
+									<a href="https://opokuamponsahandco.com/" target="_blank" className="img-pop-up">
+										<img className="image img-fluid" src={gavel} alt="" />
+									</a>
+								</div>
+								
+								<a href='https://opokuamponsahandco.com/' target='_blank' className="img-pop-up">
+								<div className="middle">
+										<div className="text align-self-center d-flex"><img src={gavel} alt="LAW FIRM" /></div>
+									</div>
+								</a>
+		
+							</div>
+							<a href="https://opokuamponsahandco.com/" target="_blank">
 								<div className="p-inner">
 									<h4>Amponsah & Co</h4>
 									<div className="cat">Law Firm</div>
