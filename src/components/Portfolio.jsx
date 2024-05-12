@@ -80,7 +80,7 @@ function Portfolio() {
 						</div>
 
 						{/* LAW-FIRM */}
-						<div className="single-portfolio col-sm-4 all packaging">
+						{/* <div className="single-portfolio col-sm-4 all packaging">
 							<div className="relative">
 								<div className="thumb">
 									<div className="overlay overlay-bg"></div>
@@ -103,7 +103,7 @@ function Portfolio() {
 								</div>
 							</a>
 
-						</div>
+						</div> */}
 
 						{/* Tinatett */}
 						<div className="single-portfolio col-sm-4 all packaging" title='(username: admin, password: Pass@123)'>
