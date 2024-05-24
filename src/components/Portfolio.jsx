@@ -7,6 +7,7 @@ import figma from '../assets/fig.jpg'
 import seating from '../assets/p7.png'
 import wp from '../assets/wp.png'
 import gavel from '../assets/gavel.jpg'
+import tourism from '../assets/img101.jpg'
 
 function Portfolio() {
 	return (
@@ -78,6 +79,9 @@ function Portfolio() {
 							</a>
 
 						</div>
+
+
+						
 
 						{/* LAW-FIRM */}
 						{/* <div className="single-portfolio col-sm-4 all packaging">
@@ -203,6 +207,33 @@ function Portfolio() {
 								<div className="p-inner">
 									<h4>Guests Seating</h4>
 									<div className="cat">Drag n Drop App</div>
+								</div>
+							</a>
+
+						</div>
+
+
+						{/* West African Tours */}
+						<div className="single-portfolio col-sm-4 all packaging">
+							<div className="relative">
+								<div className="thumb">
+									<div className="overlay overlay-bg"></div>
+									<a href="http://www.westafricantoursinfo.com/" target="_blank" className="img-pop-up">
+										<img className="image img-fluid" src={tourism} alt="tourism" />
+									</a>
+								</div>
+								
+								<a href='http://www.westafricantoursinfo.com/' target='_blank' className="img-pop-up">
+								<div className="middle">
+										<div className="text align-self-center d-flex"><img src={tourism} alt="tourism" /></div>
+									</div>
+								</a>
+		
+							</div>
+							<a href="http://www.westafricantoursinfo.com/" target="_blank">
+								<div className="p-inner">
+									<h4>West African Tours</h4>
+									<div className="cat">Tourism</div>
 								</div>
 							</a>
 
