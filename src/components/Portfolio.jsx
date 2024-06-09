@@ -110,16 +110,16 @@ function Portfolio() {
 						</div> */}
 
 						{/* Tinatett */}
-						<div className="single-portfolio col-sm-4 all packaging" title='(username: admin, password: Pass@123)'>
+						<div className="single-portfolio col-sm-4 all packaging" title='(username: admin-test, password: Pass@123)'>
 							<div className="relative">
 								<div className="thumb">
 									<div className="overlay overlay-bg"></div>
-									<a href='https://tinatett.netlify.app/' target='_blank'>
+									<a href='https://web-test.tinatettherbalpos.com/' target='_blank'>
 										<img className="image img-fluid" src={pos} alt="" />
 									</a>
 
 								</div>
-								<a href='https://tinatett.netlify.app/' target='_blank' className="img-pop-up">
+								<a href='https://web-test.tinatettherbalpos.com/' target='_blank' className="img-pop-up">
 									<div className="middle">
 										<div className="text align-self-center d-flex"><img src={pos} alt="POS" /></div>
 									</div>
