@@ -6,7 +6,7 @@ import pos from '../assets/pos.jpeg'
 import figma from '../assets/fig.jpg'
 import seating from '../assets/p7.png'
 import wp from '../assets/wp.png'
-import gavel from '../assets/gavel.jpg'
+import food from '../assets/hellow.png'
 import tourism from '../assets/img101.jpg'
 
 function Portfolio() {
@@ -237,6 +237,30 @@ function Portfolio() {
 								</div>
 							</a>
 
+						</div>
+
+						{/* Hello-Fresh */}
+						<div className="single-portfolio col-sm-4 all mockup">
+							<div className="relative">
+								<div className="thumb">
+									<div className="overlay overlay-bg"></div>
+									<a href='https://hellow-fresh.netlify.app/' target='_blank'>
+										<img className="image img-fluid" src={food} alt="" />
+									</a>
+
+								</div>
+								<a href='https://hellow-fresh.netlify.app/' target='_blank' className="img-pop-up">
+									<div className="middle">
+										<div className="text align-self-center d-flex"><img src={food} alt="Food" /></div>
+									</div>
+								</a>
+							</div>
+							<a href='https://hellow-fresh.netlify.app/' target='_blank'>
+								<div className="p-inner">
+									<h4>Food Ordering App</h4>
+									<div className="cat">Food</div>
+								</div>
+							</a>
 						</div>
 
 						{/* Todo-App */}
